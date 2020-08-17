@@ -1,0 +1,2 @@
+# SR_Simulation
+In this lab we create a search and rescue simulation. We imagine a scenario in which a ship has sent an emergency distress signal when it lost power and its engines stopped. The rescue operation involves scanning the search area in order to find the target ship as quickly as possible. The rescue vessel has a radar that can detect the target ship when in range. Creating the simulation for this lab involves building an interface with HTML, formatting it using CSS, and implementing the logic through Javascript
